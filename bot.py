@@ -7,7 +7,7 @@ from telethon import TelegramClient, events
 from telethon.sessions import StringSession
 import logging
 import re
-from collections import Counter
+from collections import Counter 
 import html
 
 # ===== КОНФИГУРАЦИЯ =====
